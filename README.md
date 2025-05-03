@@ -6,7 +6,7 @@ A basic Flappy Bird clone built using C++ and SFML graphics library. Press SPACE
 1. Install SFML: `sudo apt install libsfml-dev` (Linux) or use SFML setup in Visual Studio (Windows).
 2. Compile:
    ```bash
-   g++ -std=c++17 flappy.cpp -o flappy -lsfml-graphics -lsfml-window -lsfml-system
+   g++ -std=c++17 exam.cpp -o exam -lsfml-graphics -lsfml-window -lsfml-system
 3. Run:
    ```bash
-   \flappy
+   \exam
