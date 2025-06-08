@@ -6,6 +6,10 @@ Score increases each time you pass through a pipe.
 
 ---
 
+<p align="center">
+  <img src="d2a6a49b-7b9a-401f-9cf3-dcda79d35295.png" alt="Gameplay Screenshot" style="width: 500px;height: 390px; max-width: 100%;" />
+</p>
+
 ## 🎮 Features
 - Gravity-based bird movement
 - Randomized pipe heights with a fixed gap
